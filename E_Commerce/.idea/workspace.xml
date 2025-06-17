@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b12a403-ca19-4201-b35f-f7e9d5696194" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/BaseModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/CategoryWrapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/FileUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/UserType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/git.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/BaseService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/carts.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/product.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="5b12a403-ca19-4201-b35f-f7e9d5696194" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749788642674</updated>
       <workItem from="1750080769070" duration="4779000" />
-      <workItem from="1750142709783" duration="2509000" />
+      <workItem from="1750142709783" duration="3099000" />
     </task>
     <servers />
   </component>
